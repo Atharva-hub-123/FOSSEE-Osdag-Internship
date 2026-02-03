@@ -57,7 +57,6 @@ python FINAL_Bridge_Analysis_Complete_Windows.py
 ### 👤 Author
 **Atharva**
 - GitHub: [@Atharva-hub-123](https://github.com/Atharva-hub-123)
-- Email: atharvappathak22@gmail.com
 - Date: February 2026
 
 ### 🎓 Internship
