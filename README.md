@@ -24,7 +24,6 @@ Comprehensive solution for analyzing and visualizing shear force and bending mom
 ├── code/                          # Python scripts
 ├── data/                          # Input data (NetCDF)
 ├── outputs/                       # Visualization results
-├── documentation/                 # Reports and guides
 ├── requirements.txt               # Dependencies
 └── README.md                      # This file
 ```
